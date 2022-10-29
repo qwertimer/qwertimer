@@ -3,6 +3,6 @@ I am a mechatronics engineer with an interest in Python, Deep Learning, Embedded
 
 
 
-
+![snake gif](https://github.com/qwertimer/qwertimer/blob/output/github-contribution-grid-snake.svg)
 
 
